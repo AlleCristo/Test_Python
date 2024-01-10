@@ -1,7 +1,6 @@
 # Test_Python
   
-Fare uno script per sostituire caratteri e cancellare righe a caso da un set di file in un directory ed in tutte le relative sottodirectory,  
-filtrando solo per i file con determinate estensioni.  
+Fare uno script per sostituire caratteri e cancellare righe a caso da un set di file in un directory ed in tutte le relative sottodirectory, filtrando solo per i file con determinate estensioni.  
 I caratteri sono sostituiti con un altri caratteri randomici,  
 le righe sono cancellate in modo randomico in percentuale, specificando un numero minimo.  
 Lo scopo è fornire dei codici sorgenti inutilizzabili, ma riconoscibili, almeno in parte.  
