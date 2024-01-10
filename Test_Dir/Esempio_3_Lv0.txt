@@ -1,0 +1,12 @@
+Buongiorno,
+Il mio nome è Mario Rossi,
+Sono nato il 5 Dicembre 1998 a Padova.
+
+Questo file ha esclusivamente un utilità di test,
+al fine di dimostrare l'efficacia dello script richiesto a seguito del colloquio.
+
+Scrivo qualcghe altra linea a caso per rendere il file più consistente.
+Gli altri file sono tutti relativi a codici sorgente di piccoli programmi sviluppati con diversi linguaggi.
+In questo modo è possibile avere diverse estensioni per effettuare le prove.
+
+Ors termino questo file, che ricordo è solo necessario per i test e non è una descrizione dell'esercizio.
